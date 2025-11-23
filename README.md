@@ -1,4 +1,4 @@
-# DivAmigo
+# Divamigo
 
 An All-in-One Women’s Safety, Support & Empowerment App
 
